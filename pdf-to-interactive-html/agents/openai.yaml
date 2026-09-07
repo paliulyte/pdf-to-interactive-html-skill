@@ -1,0 +1,5 @@
+interface:
+  display_name: "PDF to Interactive HTML"
+  short_description: "Turn evidence-rich PDFs into mobile interactive pages or games"
+  default_prompt: "Transform the supplied PDF into an accurate, mobile-friendly interactive HTML experience."
+
